@@ -8,5 +8,7 @@ public class aplicacion {
 	private void presentarVentana() {
 	operaciones miventana = new operaciones();
 		miventana.setVisible(true);
+		//mensaje para probar
+		
 	}
 }
