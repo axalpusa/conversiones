@@ -9,6 +9,7 @@ public class aplicacion {
 	operaciones miventana = new operaciones();
 		miventana.setVisible(true);
 		//mensaje para probar
+		//segundo mensaje mensaje para probar
 		
 	}
 }
